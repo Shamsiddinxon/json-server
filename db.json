@@ -6,7 +6,8 @@
   "salom": {
     "data": [
       {
-        "chexol": [
+        "name":"chexol",
+        "product": [
           {
             "id": 141,
             "paje": 1,
@@ -49,9 +50,11 @@
               "https://target.scene7.com/is/image/Target/GUEST_48ce40b0-8dd7-45f9-abf6-65a4cbc98fb2?wid=488&hei=488&fmt=pjpeg"
             ]
           }
-        ],
-    
-        "naushnik": [
+        ]
+      },
+      {
+        "name":"naushnik",
+        "product": [
           {
             "id": 151,
             "paje": 2,
@@ -121,8 +124,11 @@
             ]
           }
           
-        ],
-        "kabelsiz": [
+        ]
+      },
+      {
+        "name":"kabelsiz",
+        "product": [
           {
             "id": 512,
             "paje": 3,
@@ -167,6 +173,7 @@
           }
         ]
       }
+      
     ]
   }
 }
