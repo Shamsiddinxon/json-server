@@ -31,9 +31,9 @@
             "price": 45000,
             "lov":false,
             "lang":0,
-            "productImage": "https://www.phonelife.se/pub_images/original/101128245D-1_1000X1000.jpg",
+            "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xHz96xIJnK_lcde2oI6n1MhH8TyyVolxMITotXKizPcthxaWuV7skyu4BVoMNBNyu28&usqp=CAU",
             "image": [
-              "hhttps://case-place.ru/upload/thumbnails/small/fb01846997e15ad818ee54c52605a952.jpg",
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xHz96xIJnK_lcde2oI6n1MhH8TyyVolxMITotXKizPcthxaWuV7skyu4BVoMNBNyu28&usqp=CAU",
               "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MM1R3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1634345209000",
               "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MM1A3_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1629962528000",
               "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xHz96xIJnK_lcde2oI6n1MhH8TyyVolxMITotXKizPcthxaWuV7skyu4BVoMNBNyu28&usqp=CAU",
@@ -108,33 +108,49 @@
             ]
           },
           {
-            "id": 187,
+            "id": 188,
             "paje": 2,
-            "productTitle": "Earpods",
+            "productTitle": "Apple BYZ S852I",
             "price": 6200,
             "lov":false,
             "lang":0,
-            "productImage": "https://onshope.com/wp-content/uploads/2021/11/New-Original-Apple-EarPods-3-5mm-Plug-Lightning-Connector-In-ear-Earbuds-Wired-Earphones-Microphone-For.jpg",
+            "productImage": "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
             "image": [
-              "https://onshope.com/wp-content/uploads/2021/11/New-Original-Apple-EarPods-3-5mm-Plug-Lightning-Connector-In-ear-Earbuds-Wired-Earphones-Microphone-For.jpg",
+              "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
               "https://p-my.ipricegroup.com/uploaded_d9d0eb01ae0b0c26d1b0a16590cda52a.jpg",
-              "https://onshope.com/wp-content/uploads/2021/11/New-Original-Apple-EarPods-3-5mm-Plug-Lightning-Connector-In-ear-Earbuds-Wired-Earphones-Microphone-For-510x510.jpg.webp",
+              "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
               "https://hiforit.com/wp-content/uploads/2020/02/14.png",
               "https://snapcraze.co.za/wp-content/uploads/2019/07/apple-earpods-lightning.jpg"
             ]
           },
           {
-            "id": 187,
+            "id": 189,
             "paje": 2,
-            "productTitle": "Earpods",
+            "productTitle": "Apple EarPods",
             "price": 6200,
             "lov":false,
             "lang":0,
-            "productImage": "https://onshope.com/wp-content/uploads/2021/11/New-Original-Apple-EarPods-3-5mm-Plug-Lightning-Connector-In-ear-Earbuds-Wired-Earphones-Microphone-For.jpg",
+            "productImage": "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
             "image": [
-              "https://onshope.com/wp-content/uploads/2021/11/New-Original-Apple-EarPods-3-5mm-Plug-Lightning-Connector-In-ear-Earbuds-Wired-Earphones-Microphone-For.jpg",
+              "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
               "https://p-my.ipricegroup.com/uploaded_d9d0eb01ae0b0c26d1b0a16590cda52a.jpg",
-              "https://onshope.com/wp-content/uploads/2021/11/New-Original-Apple-EarPods-3-5mm-Plug-Lightning-Connector-In-ear-Earbuds-Wired-Earphones-Microphone-For-510x510.jpg.webp",
+              "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
+              "https://hiforit.com/wp-content/uploads/2020/02/14.png",
+              "https://snapcraze.co.za/wp-content/uploads/2019/07/apple-earpods-lightning.jpg"
+            ]
+          },
+          {
+            "id": 190,
+            "paje": 2,
+            "productTitle": "Apple EarPods",
+            "price": 6200,
+            "lov":false,
+            "lang":0,
+            "productImage": "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
+            "image": [
+              "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
+              "https://p-my.ipricegroup.com/uploaded_d9d0eb01ae0b0c26d1b0a16590cda52a.jpg",
+              "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
               "https://hiforit.com/wp-content/uploads/2020/02/14.png",
               "https://snapcraze.co.za/wp-content/uploads/2019/07/apple-earpods-lightning.jpg"
             ]
@@ -168,7 +184,7 @@
             "price": 45000,
             "lov":false,
             "lang":0,
-            "productImage": "https://www.apple.com/my/v/airpods/q/images/overview/airpods_pro_right__fm0wwisa76em_large.png",
+            "productImage": "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
             "image": [
               "https://onshope.com/wp-content/uploads/2021/11/New-Original-Apple-EarPods-3-5mm-Plug-Lightning-Connector-In-ear-Earbuds-Wired-Earphones-Microphone-For.jpg",
               "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9yYk_PwG8cpeqoBjGI23P5bHSLwvr5lIEqWTPgw2KcwxsgISltIO6WEYNI2fymqxZpds&usqp=CAU",
@@ -180,7 +196,7 @@
           {
             "id": 518,
             "paje": 3,
-            "productTitle": "Stakan",
+            "productTitle": "AirPods",
             "price": 45000,
             "lov":false,
             "lang":0,
