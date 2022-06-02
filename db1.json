@@ -92,33 +92,17 @@
             ]
           },
           {
-            "id": 187,
-            "paje": 2,
-            "productTitle": "Earpods",
-            "price": 6200,
-            "lov":false,
-            "lang":0,
-            "productImage": "https://onshope.com/wp-content/uploads/2021/11/New-Original-Apple-EarPods-3-5mm-Plug-Lightning-Connector-In-ear-Earbuds-Wired-Earphones-Microphone-For.jpg",
-            "image": [
-              "https://onshope.com/wp-content/uploads/2021/11/New-Original-Apple-EarPods-3-5mm-Plug-Lightning-Connector-In-ear-Earbuds-Wired-Earphones-Microphone-For.jpg",
-              "https://p-my.ipricegroup.com/uploaded_d9d0eb01ae0b0c26d1b0a16590cda52a.jpg",
-              "https://onshope.com/wp-content/uploads/2021/11/New-Original-Apple-EarPods-3-5mm-Plug-Lightning-Connector-In-ear-Earbuds-Wired-Earphones-Microphone-For-510x510.jpg.webp",
-              "https://hiforit.com/wp-content/uploads/2020/02/14.png",
-              "https://snapcraze.co.za/wp-content/uploads/2019/07/apple-earpods-lightning.jpg"
-            ]
-          },
-          {
             "id": 188,
             "paje": 2,
             "productTitle": "Apple BYZ S852I",
             "price": 6200,
             "lov":false,
             "lang":0,
-            "productImage": "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
+            "productImage": "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(4).png",
             "image": [
-              "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
+              "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(4).png",
               "https://p-my.ipricegroup.com/uploaded_d9d0eb01ae0b0c26d1b0a16590cda52a.jpg",
-              "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
+              "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(4).png",
               "https://hiforit.com/wp-content/uploads/2020/02/14.png",
               "https://snapcraze.co.za/wp-content/uploads/2019/07/apple-earpods-lightning.jpg"
             ]
@@ -130,11 +114,11 @@
             "price": 6200,
             "lov":false,
             "lang":0,
-            "productImage": "https://drive.google.com/file/d/1PasHJAj8rbYPdaQXOjDrKXziTIi7abtW/view?usp=sharing",
+            "productImage": "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(3).png",
             "image": [
-              "https://drive.google.com/file/d/1PasHJAj8rbYPdaQXOjDrKXziTIi7abtW/view?usp=sharing",
+              "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(3).png",
               "https://p-my.ipricegroup.com/uploaded_d9d0eb01ae0b0c26d1b0a16590cda52a.jpg",
-              "https://drive.google.com/file/d/1PasHJAj8rbYPdaQXOjDrKXziTIi7abtW/view?usp=sharing",
+              "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(3).png",
               "https://hiforit.com/wp-content/uploads/2020/02/14.png",
               "https://snapcraze.co.za/wp-content/uploads/2019/07/apple-earpods-lightning.jpg"
             ]
@@ -146,13 +130,29 @@
             "price": 6200,
             "lov":false,
             "lang":0,
-            "productImage": "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
+            "productImage": "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(2).png",
             "image": [
-              "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
+              "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(2).png",
               "https://p-my.ipricegroup.com/uploaded_d9d0eb01ae0b0c26d1b0a16590cda52a.jpg",
-              "https://drive.google.com/drive/folders/1kl4PTWnQcYMrYlkPXny-7eGqYA4SKC94",
+              "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image%20(2).png",
               "https://hiforit.com/wp-content/uploads/2020/02/14.png",
               "https://snapcraze.co.za/wp-content/uploads/2019/07/apple-earpods-lightning.jpg"
+            ]
+          },  
+          {
+            "id": 187,
+            "paje": 2,
+            "productTitle": "Earpods",
+            "price": 6200,
+            "lov":false,
+            "lang":0,
+            "productImage": "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/image%209.png",
+            "image": [
+              "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/image%208.png",
+              "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/image%209.png",
+              "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/image%2012.png",
+              "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/image%2013.png",
+              "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/image%2010.png"
             ]
           }
           
@@ -184,9 +184,9 @@
             "price": 45000,
             "lov":false,
             "lang":0,
-            "productImage": "https://raw.githubusercontent.com/Shamsiddinxon/Qpick-magazin-react/ce12b669829b7e47b9d9395eb1d1d725a309ea32/src/Assests/img/Image%20(8).png",
+            "productImage": "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image.png",
             "image": [
-              "https://raw.githubusercontent.com/Shamsiddinxon/Qpick-magazin-react/ce12b669829b7e47b9d9395eb1d1d725a309ea32/src/Assests/img/Image%20(8).png",
+              "https://raw.githubusercontent.com/Shamsiddinxon/qpick/613535ff584d40445f4113accde2d2c0a423f08c/src/Assests/img/Image.png",
               "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9yYk_PwG8cpeqoBjGI23P5bHSLwvr5lIEqWTPgw2KcwxsgISltIO6WEYNI2fymqxZpds&usqp=CAU",
               "https://i.guim.co.uk/img/media/fa36d7a2b93ef5ba25931bbfbe3e6780695ffb41/583_494_4667_2802/master/4667.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e2d5d444a5311d08e3436af90cc6c2dc",
               "https://www.apple.com/my/v/airpods/q/images/overview/airpods_pro_right__fm0wwisa76em_large.png",
